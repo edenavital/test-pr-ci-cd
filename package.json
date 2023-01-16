@@ -1,0 +1,22 @@
+{
+  "name": "test-pr-ci-cd-licenses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edenavital/test-pr-ci-cd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edenavital/test-pr-ci-cd/issues"
+  },
+  "homepage": "https://github.com/edenavital/test-pr-ci-cd#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
